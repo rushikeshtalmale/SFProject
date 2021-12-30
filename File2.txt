@@ -1,2 +1,7 @@
-fix the bug
- change for WI4 by teammate for rebase with conflict
+
+ 
+
+1. fix the bug
+2. change for WI4 by teammate for rebase with conflict
+3. change for rebase on CR2.
+
